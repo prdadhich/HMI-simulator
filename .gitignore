@@ -60,5 +60,5 @@ crashlytics-build.properties
 
 
 
-.fbx
-
+*.fbx
+*.png
